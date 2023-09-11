@@ -21,3 +21,25 @@ font-family: Arial, Helvetica, sans-serif;
 #Intropicture{
     float: left;
 }
+
+.reset{
+    clear: both;
+}
+
+#hobbycontainer{
+    width: 410px;
+    float: left;
+}
+
+#dnd{
+    float: left;
+}
+
+#Heroshot{
+    float: left;
+}
+
+
+.socialmedia{
+    float: left;
+}
