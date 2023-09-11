@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(212, 107, 75);
+    margin: 0px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+#Introtext{
+    color: #00f;
+
+}
+
+.highlight{
+    color: rgb(130, 130, 228);
+    font-weight: bold;
+}
