@@ -87,3 +87,7 @@ border-radius: 7px;
 #navigation a:hover {
     color: chartreuse;
 }
+
+#photo {
+    margin: 60px;
+}
